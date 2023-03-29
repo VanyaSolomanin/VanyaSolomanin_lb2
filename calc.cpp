@@ -27,6 +27,7 @@ int main() {
         break;
 
     case 4:     result = (double)a / b;
+	case 5: result = pow(a, b); break;
 
         break;
 
